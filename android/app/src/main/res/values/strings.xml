@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">WargaJagaWarga</string>
+    <string name="title_activity_main">WargaJagaWarga</string>
+    <string name="package_name">com.warga.jagawarga</string>
+    <string name="custom_url_scheme">com.warga.jagawarga</string>
+</resources>

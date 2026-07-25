@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .pb-safe {
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+}
+
+body {
+  /* Prevent pull-to-refresh on mobile if we want to feel native */
+  overscroll-behavior-y: none;
+}
